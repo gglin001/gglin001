@@ -1,16 +1,20 @@
-### Hi there 👋👋👋
+```
 
-<!--
-**gglin001/gglin001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+~/$ screenfetch -p
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+░█████╗░██╗░░░░░██╗░░░░░███████╗███╗░░██╗░██████╗░██╗░░░██╗░█████╗░
+██╔══██╗██║░░░░░██║░░░░░██╔════╝████╗░██║██╔════╝░██║░░░██║██╔══██╗
+███████║██║░░░░░██║░░░░░█████╗░░██╔██╗██║██║░░██╗░██║░░░██║██║░░██║
+██╔══██║██║░░░░░██║░░░░░██╔══╝░░██║╚████║██║░░╚██╗██║░░░██║██║░░██║
+██║░░██║███████╗███████╗███████╗██║░╚███║╚██████╔╝╚██████╔╝╚█████╔╝
+╚═╝░░╚═╝╚══════╝╚══════╝╚══════╝╚═╝░░╚══╝░╚═════╝░░╚═════╝░░╚════╝░
+
+
+ allen@Shanghai.China
+ Languages: Python, C++
+ OS: Linux(Ubuntu & Arch Linux)
+ Editors: VSCode, Vim, CLion, PyCharm
+ Tools: CMake, Git, GDB, Docker
+
+```

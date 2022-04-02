@@ -2,19 +2,23 @@
 
 ~/$ screenfetch -p
 
-
-░█████╗░██╗░░░░░██╗░░░░░███████╗███╗░░██╗░██████╗░██╗░░░██╗░█████╗░
-██╔══██╗██║░░░░░██║░░░░░██╔════╝████╗░██║██╔════╝░██║░░░██║██╔══██╗
-███████║██║░░░░░██║░░░░░█████╗░░██╔██╗██║██║░░██╗░██║░░░██║██║░░██║
-██╔══██║██║░░░░░██║░░░░░██╔══╝░░██║╚████║██║░░╚██╗██║░░░██║██║░░██║
-██║░░██║███████╗███████╗███████╗██║░╚███║╚██████╔╝╚██████╔╝╚█████╔╝
-╚═╝░░╚═╝╚══════╝╚══════╝╚══════╝╚═╝░░╚══╝░╚═════╝░░╚═════╝░░╚════╝░
-
-
- allen@Shanghai.China
- Languages: Python, C++
- OS: Linux(Ubuntu & Arch Linux)
- Editors: VSCode, Vim, CLion, PyCharm
- Tools: CMake, Git, GDB, Docker
+XXXXXXXXXXNNNNNNNNKXNNNNNNNNNNNNNNNNNNNN
+XXXXXXXXXNNNNNNNNX,kNNNNNNNNNNNNNNNNNNNN
+XXXXXXXXNNNNNNNNNl.;NNNNNNNNNNNNNNNNNNNN
+XXXXXXXNNNNNNNNNk ..lNNNNNNNNNNNNNNNNNNN
+XXXXXXXNNNNNXOxo.   .;ldkXNNNNNNNNNNNNNN
+XXXXXXXNNXo'              ;KNNNNNNNNNNNN
+XXXXXXXXN:  .....,,;;';;;' .0NNNNNNNNNNN
+XXXXXXXXNOol;..:,ck0klo;;ck0XNNNNNNNNNNN
+XXXXXXXXXNX,.',:lc0N0xxlcll0NNNNNNNNNNNN
+XXXXXXXXXXK;;:ckKKk0WWWKkxxONNNNNNNNNWWW
+KKXXXXXXXXKc:lO00kdoKNWWNNXKNNNNNNNNNWWW
+KKKKKKXXXXx,:OKKXXK0NNWWWWKkKNNNNNNNWWWW
+KKKKKKKKXK;'',oOKXNNWWWWWKxokNNNNNNNWWWW
+KKKKKKKKKO'.'';lkXNNWWWNxccldXNNNNWNWWWW
+000000KKKx'',;;:oxKXNN0xddlcoXNNNNWWWWWW
+000000000o..,,,,ckXKXXKo:cocdNNNNWWWWWWW
+OOOOOOOOOl..,;;,lKXXNNNd::c;dNNNNNNWWWWW
+kkkkkkkOO;'....''d0KXXKc.,lldNNNNNNNNWWW
 
 ```
